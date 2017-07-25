@@ -1,10 +1,11 @@
 permalink: /posts/:title
 markdown: kramdown
 
-gems:
-  - jekyll-sitemap
+#gems:
+#  - jekyll-sitemap
 
-name: Zach Holman
-url: https://zachholman.com/left
-description: A fantastic blog that is fantastic.
-twitter: holman
+name: Hyuk Lee
+url: #
+description: #A fantastic blog that is fantastic.
+twitter: #holman
+facebook: https://facebook.com/yng826
